@@ -33,5 +33,3 @@ Age clearly affects programming language use and appeal. To give just a few of i
 
 
 
-# DataScientistBlog
-# DataScientistBlog
