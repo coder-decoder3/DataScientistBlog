@@ -4,12 +4,12 @@
 
 Data Science Project on 2019 StackOverflow Developer Data
 
-Requirements:
+# Requirements:
 
 Just basic Libraries like python3, numpy, pandas, matplotlib, seaborn etc to analayse data.
 
 
-Project Motivation
+# Motivation
 
 From 2019 StackOverflow Data, i was very excited to answer following questions:
 
@@ -17,13 +17,13 @@ From 2019 StackOverflow Data, i was very excited to answer following questions:
  2. Does a developer's age affect what programming languages they know or want to learn?
  3. Do people in different countries learn about software development differently? 
 
-Files:
+# Files:
 
 There is one stackoverflow data csv used to analayze data & one iPython jupyter notebook to answer or to solve the above questions.
 
 
 
-Output
+# Output
 
 Numerous intriguing facts were discovered by the investigation, which are discussed in this Medium blog post. The main lessons are:
 
@@ -31,5 +31,9 @@ The highest relative rates of job satisfaction are reported by self-employed dev
 
 Age clearly affects programming language use and appeal. To give just a few of instances, the youngest responders are more likely to utilise HTML than JavaScript and prefer to learn Python to JavaScript. Additionally, the utilisation and appeal of C++ and C are stronger the younger the respondents.
 
+
+# Acknowledgement
+
+Credit should be given to the Udacity course for some  code ideas and to Kaggle/AirBnb for the data. Data licensing and other descriptive information can be found at the Kaggle link available here. Otherwise feel free to use the code here.
 
 
